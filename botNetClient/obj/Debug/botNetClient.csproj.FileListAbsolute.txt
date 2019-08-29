@@ -1,0 +1,20 @@
+C:\Users\luisf\Desktop\Desenvolvimento\botnet\botNetClient\botNetClient\bin\Debug\botNetClient.exe.config
+C:\Users\luisf\Desktop\Desenvolvimento\botnet\botNetClient\botNetClient\bin\Debug\botNetClient.exe
+C:\Users\luisf\Desktop\Desenvolvimento\botnet\botNetClient\botNetClient\bin\Debug\botNetClient.pdb
+C:\Users\luisf\Desktop\Desenvolvimento\botnet\botNetClient\botNetClient\obj\Debug\botNetClient.csprojAssemblyReference.cache
+C:\Users\luisf\Desktop\Desenvolvimento\botnet\botNetClient\botNetClient\obj\Debug\botNetClient.csproj.CoreCompileInputs.cache
+C:\Users\luisf\Desktop\Desenvolvimento\botnet\botNetClient\botNetClient\obj\Debug\botNetClient.exe
+C:\Users\luisf\Desktop\Desenvolvimento\botnet\botNetClient\botNetClient\obj\Debug\botNetClient.pdb
+C:\Users\luisf\Desktop\Desenvolvimento\botnet\botNetClient\botNetClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\luisf\Desktop\Desenvolvimento\botnet\botNetClient\botNetClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\luisf\Desktop\Desenvolvimento\botnet\botNetClient\botNetClient\obj\Debug\botNetClient.csproj.CopyComplete
+C:\Users\luisf\Desktop\botnet\botNetClient\botNetClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\luisf\Desktop\botnet\botNetClient\botNetClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\luisf\Desktop\botnet\botNetClient\botNetClient\obj\Debug\botNetClient.csprojAssemblyReference.cache
+C:\Users\luisf\Desktop\botnet\botNetClient\botNetClient\obj\Debug\botNetClient.csproj.CoreCompileInputs.cache
+C:\Users\luisf\Desktop\botnet\botNetClient\botNetClient\obj\Debug\botNetClient.csproj.CopyComplete
+C:\Users\luisf\Desktop\botnet\botNetClient\botNetClient\bin\Debug\Windows MikroTik.exe.config
+C:\Users\luisf\Desktop\botnet\botNetClient\botNetClient\bin\Debug\Windows MikroTik.exe
+C:\Users\luisf\Desktop\botnet\botNetClient\botNetClient\bin\Debug\Windows MikroTik.pdb
+C:\Users\luisf\Desktop\botnet\botNetClient\botNetClient\obj\Debug\Windows MikroTik.exe
+C:\Users\luisf\Desktop\botnet\botNetClient\botNetClient\obj\Debug\Windows MikroTik.pdb

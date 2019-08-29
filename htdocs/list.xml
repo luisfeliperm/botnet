@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<alvo description="Teste1" ip="177.54.148.191" port="55500" protocol="udp" size="1" />
+	<!-- <alvo description="Teste1" ip="99.9.9.9" port="30004" protocol="udp" size="0" /> -->
+</list>
